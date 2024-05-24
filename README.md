@@ -1,4 +1,4 @@
-<p>Any serious NLP experiment requires data processing. In most cases, you use ready-made data, but sometimes you need to compile a corpus yourself. Depending on the task, you may also need certain information about your text: part-of-speech tags, named entities, statistical characteristics, and so on. In this project, raw text is converted into a corpus so it can be used for further analysis.</p><br/>
+<p>Any serious NLP experiment requires data processing. In most cases, you use ready-made data, but sometimes you need to compile a corpus yourself. Depending on the task, you may also need certain information about your text: part-of-speech tags, named entities, statistical characteristics, and so on. In this project, raw text is converted into a corpus so it can be used for further analysis.</p>
 
 Program has the the following functionality:<br/>
 > Preprocess the corpus<br/>
