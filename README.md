@@ -10,7 +10,7 @@ Program has the the following functionality:<br/>
 > Print the ten most common words that fall into the criteria described above;<br/>
 > Calculate the correlation between both NOUN and PROPN POS tags and named entities according to Pearson's formula and print the result.<br/><br/>
 
-<b>Example</b><br/>
+Example<br/>
 > clockwork_orange.txt<br/>
 > Number of multi-word named entities: 720<br/>
 > Number of lemmas 'devotchka': 12<br/>
